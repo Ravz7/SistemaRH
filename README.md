@@ -30,7 +30,7 @@ O **SistemaRH** foi desenvolvido com o objetivo de simular o gerenciamento bási
 
 ---
 
-## 📂 Estrutura do Repositório
+##  Estrutura do Repositório
 
 ```text
 sistema-rh/
@@ -49,6 +49,8 @@ Pré-requisitos
 Java Development Kit (JDK) 11 ou superior instalado.
 
 📸 Demonstração
+![Execução do Sistema](print.png)
+
 👤 Autor
 Desenvolvido por Eduardo Amaral de Morais
 
