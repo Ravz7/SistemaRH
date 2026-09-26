@@ -1,0 +1,10 @@
+# Ficheiros compilados
+*.class
+
+# Pastas de compilação do NetBeans e Ant
+/build/
+/dist/
+nbproject/
+
+# Ficheiros temporários
+built-jar.properties
