@@ -53,6 +53,5 @@ Java Development Kit (JDK) 11 ou superior instalado.
 ![Execução do Sistema](print.png)
 
 👤 Autor
-Desenvolvido por Eduardo Amaral de Morais
-
-GitHub | LinkedIn
+Desenvolvido por **Eduardo Amaral**  
+[GitHub Profile](https://github.com/Ravz7) | [LinkedIn](https://www.linkedin.com/in/eduardo-amaral-de-morais-2785a53a0/)
