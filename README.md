@@ -39,9 +39,6 @@ sistema-rh/
 │   ├── Funcionario.java
 │   ├── Horista.java
 │   └── Main.java
-├── .gitignore
-├── README.md
-└── print.png
 ```
 
 🚀 Como Executar
